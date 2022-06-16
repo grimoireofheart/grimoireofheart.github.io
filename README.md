@@ -10,7 +10,7 @@ Contains all you need for a full game: rules, sheets, gear, enemies, and much mo
 
 ## Images
 
-![Thumbnail of Minimal](CharacterSheet.png)
+<img src="content/CharacterSheet.png" width="600">
 
 To use the Minimal theme:
 
