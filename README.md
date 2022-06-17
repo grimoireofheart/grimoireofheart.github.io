@@ -3,7 +3,7 @@
 # TRUTH LIES WITHIN
 **Current Version:** 4.4.7 [Download Here](/Resources)
 
-*Twitter: [@GrimoireOfHeart](twitter.com/GrimoireOfHeart)*  || *Join our [Discord](https://discord.com/invite/kDGnC4yqU6)!*
+*Twitter: [@GrimoireOfHeart](twitter.com/GrimoireOfHeart)*  | *Join our [Discord](https://discord.com/invite/kDGnC4yqU6)!*
 
 Immerse yourself in a world built by human memories in the first fully-featured RPG system inspired by the best-selling Persona series!
 
