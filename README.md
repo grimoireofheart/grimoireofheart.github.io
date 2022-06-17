@@ -1,5 +1,9 @@
+<link rel="shortcut icon" type="image/png" href="/_includes/favicon.ico">
+
 # TRUTH LIES WITHIN
 **Current Version:** 4.4.7 [Download Here](/Resources)
+
+*Twitter: [@GrimoireOfHeart](twitter.com/GrimoireOfHeart)*  || *Join our [Discord](https://discord.com/invite/kDGnC4yqU6)!*
 
 Immerse yourself in a world built by human memories in the first fully-featured RPG system inspired by the best-selling Persona series!
 
@@ -16,9 +20,15 @@ June 17th: [Update 4.4.7](https://grimoireofheart.github.io/2022/06/17/Update-4.
 ## Gallery
 
 <img src="content/CharacterSheet.png" width="600"> 
+
 <img src="content/Spells.png" width="600">
+
 <img src="content/Wildcards.png" width="600">
+
 <img src="content/Types.png" width="600">
+
 <img src="content/KingFrost.png" width="600">
+
 <img src="content/Feats.png" width="600">
+
 <img src="content/Knowledge.png" width="600">
