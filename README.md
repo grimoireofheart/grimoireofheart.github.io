@@ -1,7 +1,7 @@
 <link rel="shortcut icon" type="image/png" href="/_includes/favicon.ico">
 
 # TRUTH LIES WITHIN
-**Current Version:** 4.4.7 [Download Here](/Resources)
+**Current Version:** 4.4.7 [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources)
 
 Immerse yourself in a world built by human memories in the first fully-featured RPG system inspired by the best-selling Persona series!
 
