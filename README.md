@@ -1,4 +1,5 @@
-# TRUTH LIES WITHIN
+
+Current version: 4.4.7 [Download Here](/Resources)
 
 Immerse yourself in a world built by human memories in the first fully-featured RPG system inspired by the best-selling Persona series!
 
@@ -8,9 +9,10 @@ Whether you are brand new to tabletop games and the Persona series or a veteran 
 
 Contains all you need for a full game: rules, sheets, gear, enemies, and much more, in a richly illustrated love letter to the Persona franchise.
 
-## Images
+## Gallery
 
 <img src="content/CharacterSheet.png" width="600">
+<img src="content/Spells.png" width="600">
 
 To use the Minimal theme:
 
