@@ -4,6 +4,7 @@
 **Current Version:** 4.4.7 [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/blob/main/Resources/Grimoire%20of%20the%20Heart%20v4.4.7%20EN.pdf)
 
 **Sea Of Souls (Add-Ons and Bonus Content)**: [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons))
+
 ##
 
 Immerse yourself in a world built by human memories in the first fully-featured RPG system inspired by the best-selling Persona series!
