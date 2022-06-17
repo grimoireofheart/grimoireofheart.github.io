@@ -9,7 +9,3 @@ Whether you are brand new to tabletop games and the Persona series or a veteran 
 Contains all you need for a full game: rules, sheets, gear, enemies, and much more, in a richly illustrated love letter to the Persona franchise.
 
 ## Images
-
-<img src="content/CharacterSheet.png" width="600">
-
-
