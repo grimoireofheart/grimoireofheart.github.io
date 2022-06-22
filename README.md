@@ -16,6 +16,7 @@ Whether you are brand new to tabletop games and the Persona series or a veteran 
 Contains all you need for a full game: rules, sheets, gear, enemies, and much more, in a richly illustrated love letter to the Persona franchise.
 
 ## Blog
+June 22nd: [Heartverse: Homebrew and Crossover Content](https://grimoireofheart.github.io/2022/06/22/Enter-the-Heartverse.html)
 
 June 17th: [Update 4.4.7](https://grimoireofheart.github.io/2022/06/17/Update-4.4.7.html)
 
