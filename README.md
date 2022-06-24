@@ -1,7 +1,7 @@
 <link rel="shortcut icon" type="image/png" href="/_includes/favicon.ico">
 
 # TRUTH LIES WITHIN
-**Current Version:** 4.4.7 [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/blob/main/Resources/Grimoire%20of%20the%20Heart%20v4.4.7%20EN.pdf)
+**Current Version:** 4.4.8 [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/blob/main/Resources/Grimoire%20of%20the%20Heart%20v4.4.8%20EN.pdf)
 
 **Sea Of Souls (Add-Ons and Bonus Content)**: [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons))
 
@@ -16,6 +16,8 @@ Whether you are brand new to tabletop games and the Persona series or a veteran 
 Contains all you need for a full game: rules, sheets, gear, enemies, and much more, in a richly illustrated love letter to the Persona franchise.
 
 ## Blog
+June 24th: [Update 4.4.8](https://grimoireofheart.github.io/2022/06/24/Update-4.4.8.html)
+
 June 22nd: [Heartverse: Homebrew and Crossover Content](https://grimoireofheart.github.io/2022/06/22/Enter-the-Heartverse.html)
 
 June 17th: [Update 4.4.7](https://grimoireofheart.github.io/2022/06/17/Update-4.4.7.html)
