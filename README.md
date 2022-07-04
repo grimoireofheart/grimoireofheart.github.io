@@ -16,6 +16,8 @@ Whether you are brand new to tabletop games and the Persona series or a veteran 
 Contains all you need for a full game: rules, sheets, gear, enemies, and much more, in a richly illustrated love letter to the Persona franchise.
 
 ## Blog
+July 4th: Featuring a new playable Class inspired by the Persona -trinity soul- anime and the new Rumor Skills, the "Book of Rumors" is [available now!](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons))
+
 July 1st: [Update 4.4.9](https://grimoireofheart.github.io/2022/07/01/Update-4.4.9.html)
 
 June 24th: [Update 4.4.8](https://grimoireofheart.github.io/2022/06/24/Update-4.4.8.html)
