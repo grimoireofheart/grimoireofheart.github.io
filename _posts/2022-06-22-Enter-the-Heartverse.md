@@ -7,7 +7,7 @@ Starting in April 2022, we've opened the doors to fan-made content and crossover
 
 **Heartverse content was made in collaboration with other authors and the Core Grimoire team, but contacting the listed authors of each file is your best bet if you wish to provide feedback.**
 
-### Core Grimoire Team (Tsumi#8400)
+### Core Grimoire Team (Tsumi#8400 and Sanerion#9999)
 * [Kingdom Heart's Keyblade Wielders](https://drive.google.com/file/d/1D_uHuI2H0TUHerONKUaIVqGtDliqrliE/view?usp=sharing) - New Class and Spells
 * [Warframe's Operators](https://drive.google.com/file/d/1OxYqyuVEvY2QFDRzjrGUxFN3TYkwf0pQ/view?usp=sharing) - New Class
 
@@ -26,3 +26,5 @@ Starting in April 2022, we've opened the doors to fan-made content and crossover
 * [RWBY's Huntsmen](https://docs.google.com/document/d/1KytgHBcZUqbQFSWEzO1TOiYeAbdpnS_4cKjDJEMv0iw/edit?usp=sharing) - New Class
 * [Devil May Cry's Devil Hunters](https://docs.google.com/document/d/1309Fxeygce2GRrqzrPflVThoBkR7ddHJ-UBA4Tc0IEs/edit?usp=sharing) - New Class
 * [SMT 3's Demi-Fiends](https://drive.google.com/file/d/1O-BUAL1DHtvG8j3M-1hnTsh_KgIlh47X/view?usp=sharing) - New Class and Spells
+* [Echoes from the Velvet Room (Villain Bossfights)](https://docs.google.com/document/d/1O3ZWgTy9JjQo49I8qHZlhYzvh4rXyq-K3i4kxppo9UE/edit?usp=sharing) - New Bosses and Shadows.
+* [Echoes from the Velvet Room (Protagonists Bossfights)](https://docs.google.com/document/d/14bAN1iDZz8bEVo1ScXJYbecpMC4o6dr-/edit?usp=sharing) - New Bosses,Personae and Weapons.
