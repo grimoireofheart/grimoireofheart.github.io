@@ -7,7 +7,7 @@ Starting in April 2022, we've opened the doors to fan-made content and crossover
 
 **Heartverse content was made in collaboration with other authors and the Core Grimoire team, but contacting the listed authors of each file is your best bet if you wish to provide feedback.**
 
-### Core Grimoire Team (Tsumi#8400)
+### Core Grimoire Team (Tsumi#8400 and Sanerion#9999)
 * [Kingdom Heart's Keyblade Wielders](https://drive.google.com/file/d/1D_uHuI2H0TUHerONKUaIVqGtDliqrliE/view?usp=sharing) - New Class and Spells
 * [Warframe's Operators](https://drive.google.com/file/d/1OxYqyuVEvY2QFDRzjrGUxFN3TYkwf0pQ/view?usp=sharing) - New Class
 
