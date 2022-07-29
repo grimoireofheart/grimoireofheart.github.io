@@ -26,5 +26,7 @@ Starting in April 2022, we've opened the doors to fan-made content and crossover
 * [RWBY's Huntsmen](https://docs.google.com/document/d/1KytgHBcZUqbQFSWEzO1TOiYeAbdpnS_4cKjDJEMv0iw/edit?usp=sharing) - New Class
 * [Devil May Cry's Devil Hunters](https://docs.google.com/document/d/1309Fxeygce2GRrqzrPflVThoBkR7ddHJ-UBA4Tc0IEs/edit?usp=sharing) - New Class
 * [SMT 3's Demi-Fiends](https://drive.google.com/file/d/1O-BUAL1DHtvG8j3M-1hnTsh_KgIlh47X/view?usp=sharing) - New Class and Spells
+* [RWBY's Grimm Based Class](https://docs.google.com/document/d/1bQ1ZtjA6FQXwQ7_s0WfBvmdmpbJqjFSkBMK4SQFtYok/edit) - New Class and Spells
 * [Echoes from the Velvet Room (Villain Bossfights)](https://docs.google.com/document/d/1O3ZWgTy9JjQo49I8qHZlhYzvh4rXyq-K3i4kxppo9UE/edit?usp=sharing) - New Bosses and Shadows.
 * [Echoes from the Velvet Room (Protagonists Bossfights)](https://docs.google.com/document/d/14bAN1iDZz8bEVo1ScXJYbecpMC4o6dr-/edit?usp=sharing) - New Bosses,Personae and Weapons.
+
