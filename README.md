@@ -1,7 +1,7 @@
 <link rel="shortcut icon" type="image/png" href="/_includes/favicon.ico">
 
 # TRUTH LIES WITHIN
-**Current Version:** 4.5.1 [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/raw/main/Resources/Grimoire%20of%20the%20Heart%20v4.5.1%20EN.pdf)
+**Current Version:** 4.6.0 [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/raw/main/Resources/Grimoire%20of%20the%20Heart%20v4.6.0%20EN.pdf)
 
 **Sea Of Souls (Add-Ons and Bonus Content)**: [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons))
 
