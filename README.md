@@ -17,6 +17,7 @@ Contains all you need for a full game: rules, sheets, gear, enemies, and much mo
 
 ## Blog
 August 26th: [Update 4.6.3](https://grimoireofheart.github.io/2022/08/26/Update-4.6.3.html)
+
 Soul Hackers 2 releases today! To celebrate, check out the *Soul Hacker Handbook*, a supplement featuring more features for Devil Summoners, weapons, and powerful new enemies. Available [here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons)/Soul%20Hacker%20Handbook.pdf)
 
 August 19th: [Update 4.6.2](https://grimoireofheart.github.io/2022/08/19/Update-4.6.2.html)
