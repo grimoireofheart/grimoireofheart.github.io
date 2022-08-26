@@ -2,4 +2,32 @@ This is the Sea of Souls, a compilation of "official" add-ons for the Grimoire, 
 
 This content was written and balanced to be on-par with the core Grimoire content, but can be more mechanically advanced than core content. Make sure your Narrator allows Sea of Souls content before using it. 
 
-The "Volume X" PDFs are grouped versions of the stand-alone files, and are identical in content and interchangeable in use. Feel free to use whichever is more convenientt to you.
+## Volume I:
+* New Classes: 
+	* Devil Summoners
+	* Velvet Room Attendants
+	* Artificial Persona Users
+	* Nahobino
+	* Navigators
+* New weapons
+* New armor
+* New consumables
+* Weapon Coatings
+* New Feats
+* New Shadows
+
+## Volume II:
+* New Class:
+	* Marebito
+* New Weapon Class: 
+	* Grimoires
+* New weapons
+* New Shadows
+	* Rumor Shadows
+	* Humans
+* Element Personae
+
+## Homebrew Resources
+* Style Guide
+* Shadow Creation Guide
+* Equipment Creation Guide

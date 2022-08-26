@@ -1,7 +1,7 @@
 <link rel="shortcut icon" type="image/png" href="/_includes/favicon.ico">
 
 # TRUTH LIES WITHIN
-**Current Version:** 4.6.2 [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/raw/main/Resources/Grimoire%20of%20the%20Heart%20[Core%20Rulebook].pdf)
+**Current Version:** 4.6.3 [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/raw/main/Resources/Grimoire%20of%20the%20Heart%20[Core%20Rulebook].pdf)
 
 **Sea Of Souls (Add-Ons and Bonus Content)**: [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons))
 
@@ -16,25 +16,13 @@ Whether you are brand new to tabletop games and the Persona series or a veteran 
 Contains all you need for a full game: rules, sheets, gear, enemies, and much more, in a richly illustrated love letter to the Persona franchise.
 
 ## Blog
-August 19th: [Update 4.6.2](https://grimoireofheart.github.io/2022/08/19/Update-4.6.1.html)
+August 26th: [Update 4.6.3](https://grimoireofheart.github.io/2022/08/26/Update-4.6.3.html)
+Soul Hackers 2 releases today! To celebrate, check out the *Soul Hacker Handbook*, a supplement featuring more features for Devil Summoners, weapons, and powerful new enemies. Available at:
+https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons)/Soul%20Hacker%20Handbook.pdf
+
+August 19th: [Update 4.6.2](https://grimoireofheart.github.io/2022/08/19/Update-4.6.2.html)
 
 August 5th: [Update 4.6.1](https://grimoireofheart.github.io/2022/08/05/Update-4.6.1.html)
-
-July 29th: [Update 4.6.0](https://grimoireofheart.github.io/2022/07/29/Update-4.6.0.html)
-
-July 22nd: [Update 4.5.1](https://grimoireofheart.github.io/2022/07/22/Update-4.5.1.html)
-
-July 15th: [Update 4.5.0](https://grimoireofheart.github.io/2022/07/15/Update-4.5.0.html)
-
-July 4th: Featuring a new playable Class inspired by the Persona -trinity soul- anime and the new Rumor Skills, the "Book of Rumors" is [available now!](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons))
-
-July 1st: [Update 4.4.9](https://grimoireofheart.github.io/2022/07/01/Update-4.4.9.html)
-
-June 24th: [Update 4.4.8](https://grimoireofheart.github.io/2022/06/24/Update-4.4.8.html)
-
-June 22nd: [Heartverse: Homebrew and Crossover Content](https://grimoireofheart.github.io/2022/06/22/Enter-the-Heartverse.html)
-
-June 17th: [Update 4.4.7](https://grimoireofheart.github.io/2022/06/17/Update-4.4.7.html)
 
 ## Gallery
 
