@@ -29,4 +29,5 @@ Starting in April 2022, we've opened the doors to fan-made content and crossover
 * [RWBY's Grimm Based Class](https://docs.google.com/document/d/1bQ1ZtjA6FQXwQ7_s0WfBvmdmpbJqjFSkBMK4SQFtYok/edit) - New Class and Spells
 * [Echoes from the Velvet Room (Villain Bossfights)](https://docs.google.com/document/d/1O3ZWgTy9JjQo49I8qHZlhYzvh4rXyq-K3i4kxppo9UE/edit?usp=sharing) - New Bosses and Shadows.
 * [Echoes from the Velvet Room (Protagonists Bossfights)](https://docs.google.com/document/d/14bAN1iDZz8bEVo1ScXJYbecpMC4o6dr-/edit?usp=sharing) - New Bosses,Personae and Weapons.
+* [The Unstable (Artificial Variant)](https://docs.google.com/document/d/194TAF73Dm9KtE50VqMHtLFeqCZxa1gRU4DufWdL9hQY/edit) - New Class Variant and Optional Rulings
 
