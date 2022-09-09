@@ -1,7 +1,7 @@
 <link rel="shortcut icon" type="image/png" href="/_includes/favicon.ico">
 
 # TRUTH LIES WITHIN
-**Current Version:** 4.6.3 [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/raw/main/Resources/Grimoire%20of%20the%20Heart%20[Core%20Rulebook].pdf)
+**Current Version:** 4.6.4 [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/raw/main/Resources/Grimoire%20of%20the%20Heart%20[Core%20Rulebook].pdf)
 
 **Sea Of Souls (Add-Ons and Bonus Content)**: [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons))
 
@@ -16,9 +16,9 @@ Whether you are brand new to tabletop games and the Persona series or a veteran 
 Contains all you need for a full game: rules, sheets, gear, enemies, and much more, in a richly illustrated love letter to the Persona franchise.
 
 ## Blog
-August 26th: [Update 4.6.3](https://grimoireofheart.github.io/2022/08/26/Update-4.6.3.html)
+September 9th: [Update 4.6.4](https://grimoireofheart.github.io/2022/09/09/Update-4.6.4.html)
 
-Soul Hackers 2 releases today! To celebrate, check out the *Soul Hacker Handbook*, a supplement featuring more features for Devil Summoners, weapons, and powerful new enemies. Available [here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons)/Soul%20Hacker%20Handbook.pdf)
+August 26th: [Update 4.6.3](https://grimoireofheart.github.io/2022/08/26/Update-4.6.3.html)
 
 August 19th: [Update 4.6.2](https://grimoireofheart.github.io/2022/08/19/Update-4.6.2.html)
 
