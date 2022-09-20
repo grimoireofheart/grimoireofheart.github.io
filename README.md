@@ -5,7 +5,7 @@
 
 **Sea Of Souls (Add-Ons and Bonus Content)**: [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons))
 
-*Twitter: [@GrimoireOfHeart](twitter.com/GrimoireOfHeart)*  | *Join our [Discord](https://discord.com/invite/kDGnC4yqU6)!* | *[Homebrew Content](https://grimoireofheart.github.io/2022/06/22/Enter-the-Heartverse.html)*
+*Twitter: [@GrimoireOfHeart](https://twitter.com/GrimoireOfHeart)*  | *Join our [Discord](https://discord.com/invite/kDGnC4yqU6)!* | *[Homebrew Content](https://grimoireofheart.github.io/2022/06/22/Enter-the-Heartverse.html)*
 
 **Versão PT-BR: [Baixar Aqui](https://github.com/grimoireofheart/grimoireofheart.github.io/raw/main/PT/)
 
