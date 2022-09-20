@@ -7,7 +7,7 @@
 
 *Twitter: [@GrimoireOfHeart](twitter.com/GrimoireOfHeart)*  | *Join our [Discord](https://discord.com/invite/kDGnC4yqU6)!* | *[Homebrew Content](https://grimoireofheart.github.io/2022/06/22/Enter-the-Heartverse.html)*
 
-** Versão PT-BR: [Baixar Aqui](https://github.com/grimoireofheart/grimoireofheart.github.io/raw/main/PT/)
+**Versão PT-BR: [Baixar Aqui](https://github.com/grimoireofheart/grimoireofheart.github.io/raw/main/PT/)
 
 Immerse yourself in a world built by human memories in the fully-featured RPG system inspired by the best-selling Persona series!
 
