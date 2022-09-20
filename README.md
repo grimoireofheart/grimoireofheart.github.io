@@ -7,6 +7,8 @@
 
 *Twitter: [@GrimoireOfHeart](twitter.com/GrimoireOfHeart)*  | *Join our [Discord](https://discord.com/invite/kDGnC4yqU6)!* | *[Homebrew Content](https://grimoireofheart.github.io/2022/06/22/Enter-the-Heartverse.html)*
 
+** Versão PT-BR: [Baixar Aqui](https://github.com/grimoireofheart/grimoireofheart.github.io/raw/main/PT/)
+
 Immerse yourself in a world built by human memories in the fully-featured RPG system inspired by the best-selling Persona series!
 
 As a Persona User, you have the unique ability to dive into mankind’s subconsciousness, using it to uplift the weak and crush the wicked. What you’ll do with that power, and how you’ll spend your days in a scenic, modern Tokyo and beyond, is entirely up to you.
