@@ -18,6 +18,9 @@ Whether you are brand new to tabletop games and the Persona series or a veteran 
 Contains all you need for a full game: rules, sheets, gear, enemies, and much more, in a richly illustrated love letter to the Persona franchise.
 
 ## Blog
+September 30th: [Update 4.7.0](https://grimoireofheart.github.io/2022/09/30/Update-4.7.0.html)
+	* This update introduces the third volume of the Sea of Souls! Presenting the first version of the Bounty system, with more content coming in the future. 
+
 September 16th: [Update 4.6.5](https://grimoireofheart.github.io/2022/09/16/Update-4.6.5.html)
 
 September 9th: [Update 4.6.4](https://grimoireofheart.github.io/2022/09/09/Update-4.6.4.html)
