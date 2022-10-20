@@ -13,7 +13,7 @@ _2022-10-20_
 * Cardenio - Damage adjusted from SKLd6 to MAGd6
 	* At SKLd6, Cardenio was a direct upgrade from Margites at the same price bracket, making Margites obsolete. Additionally, this splits Cover progression into two clear branches. 
 
-You can find the current version of the Sea of Soul PDFs [here](https://github.com/grimoireofheart/grimoireofheart.github.io/raw/main/Resources/https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%of%Souls%(Add-Ons)).
+You can find the current version of the Sea of Soul PDFs [here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons)).
 
 You can check your version number and date on the upper-right corner of the Index page.
 
