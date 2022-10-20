@@ -30,4 +30,11 @@ Starting in April 2022, we've opened the doors to fan-made content and crossover
 * [Echoes from the Velvet Room (Villain Bossfights)](https://docs.google.com/document/d/1O3ZWgTy9JjQo49I8qHZlhYzvh4rXyq-K3i4kxppo9UE/edit?usp=sharing) - New Bosses and Shadows.
 * [Echoes from the Velvet Room (Protagonists Bossfights)](https://docs.google.com/document/d/14bAN1iDZz8bEVo1ScXJYbecpMC4o6dr-/edit?usp=sharing) - New Bosses,Personae and Weapons.
 * [The Unstable (Artificial Variant)](https://docs.google.com/document/d/194TAF73Dm9KtE50VqMHtLFeqCZxa1gRU4DufWdL9hQY/edit) - New Class Variant and Optional Rulings
+* [The Ruined Emergent](https://docs.google.com/document/d/1xpd2BRHebFukmpbbPe2HflY7etSonpHnnqKMQ3Kl9kg/edit) - New Class
+* [The Tyrant](https://docs.google.com/document/d/12jjmrG1pfNxBWjX-ooCbZQhYQMYNPXGeAsczmWn-Vr8/edit) - New class
+* [The Frailed Suppressor](https://docs.google.com/document/d/12jjmrG1pfNxBWjX-ooCbZQhYQMYNPXGeAsczmWn-Vr8/edit) - New Class
+* [Blazblue's Bloodedge](https://docs.google.com/document/d/153oXrZWeLad3tjFqGlOnzTh3-Z2Kh4oCCpsHo0N1u9M/edit) - New Class
+* [SMT 3's Demi-Fiends (PT)](https://docs.google.com/document/d/1a7Wz9g70npqM_mWbwjaQlTeL0OCo29jj/edit?rtpof=true) - Class Translation
+* [Final Fantasy 7's Seraphs](https://docs.google.com/document/d/1NkkHmyMwdP5RyV0BmbV3ryFn0WdzP0OkPdZOj8LqSp0/edit) - New Class and Spells
+
 
