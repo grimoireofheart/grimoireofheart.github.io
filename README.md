@@ -18,6 +18,8 @@ Whether you are brand new to tabletop games and the Persona series or a veteran 
 Contains all you need for a full game: rules, sheets, gear, enemies, and much more, in a richly illustrated love letter to the Persona franchise.
 
 ## Blog
+December 30th: [Update 4.7.5](https://grimoireofheart.github.io/2022/12/30/Update-4.7.5.html)  
+
 November 25th: [Update 4.7.4](https://grimoireofheart.github.io/2022/11/25/Update-4.7.4.html)  
 
 November 18th: [Update 4.7.3](https://grimoireofheart.github.io/2022/11/18/Update-4.7.3.html)  
