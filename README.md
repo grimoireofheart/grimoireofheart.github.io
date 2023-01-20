@@ -30,18 +30,6 @@ November 18th: [Update 4.7.3](https://grimoireofheart.github.io/2022/11/18/Updat
 
 November 11th: [Update 4.7.2](https://grimoireofheart.github.io/2022/11/11/Update-4.7.2.html)  
 
-October 27th: [Update 4.7.1](https://grimoireofheart.github.io/2022/10/27/Update-4.7.1.html)
-
-October 20th: [Sea of Souls, October Update](https://grimoireofheart.github.io/2022/10/20/Sea-of-Souls-October.html)
-
-September 30th: [Update 4.7.0](https://grimoireofheart.github.io/2022/09/30/Update-4.7.0.html)
-
-* This update introduces the third volume of the Sea of Souls! Presenting the first version of the Bounty system, with more content coming in the future. 
-
-September 16th: [Update 4.6.5](https://grimoireofheart.github.io/2022/09/16/Update-4.6.5.html)
-
-September 9th: [Update 4.6.4](https://grimoireofheart.github.io/2022/09/09/Update-4.6.4.html)
-
 ## Gallery
 
 <img src="content/CharacterSheet.png" width="600"> 
