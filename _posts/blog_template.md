@@ -1,5 +1,5 @@
 _2023-00-00_
-# Update 4.7.
+# Update 4.8.
 
 [<< Home](https://grimoireofheart.github.io)
 
