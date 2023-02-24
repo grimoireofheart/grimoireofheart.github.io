@@ -18,6 +18,8 @@ Whether you are brand new to tabletop games and the Persona series or a veteran 
 Contains all you need for a full game: rules, sheets, gear, enemies, and much more, in a richly illustrated love letter to the Persona franchise.
 
 ## Blog
+February 24th: [Update 4.8.2](https://grimoireofheart.github.io/2023/02/24/Update-4.8.2.html)  
+
 February 17th: [Update 4.8.1](https://grimoireofheart.github.io/2023/02/17/Update-4.8.1.html)  
 
 February 10th: [Update 4.8.0](https://grimoireofheart.github.io/2023/02/09/Update-4.8.0.html)  
@@ -31,8 +33,6 @@ January 20th: [Update 4.7.7](https://grimoireofheart.github.io/2023/01/20/Update
 January 15th: [Update 4.7.6](https://grimoireofheart.github.io/2023/01/15/Update-4.7.6.html)  
 
 January 5th: Happy new year, Users! The fourth volume of the Sea of Souls is officially released with eight powerful new Shadows from Shin Megami Tensei V: [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons))
-
-December 30th: [Update 4.7.5](https://grimoireofheart.github.io/2022/12/30/Update-4.7.5.html)  
 
 ## Gallery
 
