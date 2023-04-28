@@ -6,7 +6,7 @@ _2023-00-00_
 ### Core
 * List Item
 
-##### Sub Item
+### Sub Item
 * List Item
 	* List Subitem
 
