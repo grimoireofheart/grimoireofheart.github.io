@@ -3,7 +3,7 @@
 # TRUTH LIES WITHIN
 **Instructions for Beginners**: [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Beginner%20Guides)
 
-**Current Version:** [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/raw/main/Resources/Grimoire%20of%20the%20Heart%20[Core%20Rulebook].pdf)
+**Core Rulebook:** [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/raw/main/Resources/Grimoire%20of%20the%20Heart%20[Core%20Rulebook].pdf)
 
 **Sea Of Souls (Add-Ons and Bonus Content)**: [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons))
 
@@ -20,7 +20,11 @@ Whether you are brand new to tabletop games and the Persona series or a veteran 
 Contains all you need for a full game: rules, sheets, gear, enemies, and much more, in a richly illustrated love letter to the Persona franchise.
 
 ## Blog
-July 28th: [Update 4.9.0](https://grimoireofheart.github.io/2023/07/28/Update-4.9.1.html)  
+September 1st: [Update 4.9.3](https://grimoireofheart.github.io/2023/09/01/Update-4.9.3.html)  
+
+August 19th: [Update 4.9.2](https://grimoireofheart.github.io/2023/08/04/Update-4.9.2.html)  
+
+July 28th: [Update 4.9.1](https://grimoireofheart.github.io/2023/07/28/Update-4.9.1.html)  
 
 July 22nd: [Update 4.9.0](https://grimoireofheart.github.io/2023/07/21/Update-4.9.0.html)  
 
