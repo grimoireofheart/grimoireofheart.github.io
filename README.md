@@ -20,6 +20,8 @@ Whether you are brand new to tabletop games and the Persona series or a veteran 
 Contains all you need for a full game: rules, sheets, gear, enemies, and much more, in a richly illustrated love letter to the Persona franchise.
 
 ## Blog
+September 28th: [Update 4.9.4](https://grimoireofheart.github.io/2023/09/08/Update-4.9.4.html)  
+
 September 1st: [Update 4.9.3](https://grimoireofheart.github.io/2023/09/01/Update-4.9.3.html)  
 
 August 19th: [Update 4.9.2](https://grimoireofheart.github.io/2023/08/04/Update-4.9.2.html)  
@@ -43,20 +45,6 @@ May 26th: [Update 4.8.8](https://grimoireofheart.github.io/2023/05/19/Update-4.8
 May 12th: [Update 4.8.7](https://grimoireofheart.github.io/2023/05/12/Update-4.8.7.html)  
 
 April 28th: [Update 4.8.6](https://grimoireofheart.github.io/2023/04/14/Update-4.8.6.html)  
-
-March 31st: [Update 4.8.5](https://grimoireofheart.github.io/2023/03/31/Update-4.8.5.html)  
-
-March 10th: [Update 4.8.4](https://grimoireofheart.github.io/2023/03/10/Update-4.8.4.html)  
-
-March 3rd: [Update 4.8.3](https://grimoireofheart.github.io/2023/03/03/Update-4.8.3.html)  
-
-February 24th: [Update 4.8.2](https://grimoireofheart.github.io/2023/02/24/Update-4.8.2.html)  
-
-February 17th: [Update 4.8.1](https://grimoireofheart.github.io/2023/02/17/Update-4.8.1.html)  
-
-February 10th: [Update 4.8.0](https://grimoireofheart.github.io/2023/02/09/Update-4.8.0.html)  
-
-February 3rd: [Update 4.7.9](https://grimoireofheart.github.io/2023/02/03/Update-4.7.9.html)  
 
 ## Gallery
 
