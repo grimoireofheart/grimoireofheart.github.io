@@ -26,7 +26,7 @@ May 28th: [Update 4.16](https://grimoireofheart.github.io/2023/05/24/Update-4.16
 
 February 16th: [Update 4.14](https://grimoireofheart.github.io/2023/02/09/Update-4.14.html) 
 
-February 5th: [Update 4.13](https://grimoireofheart.github.io/2023/01/26/Update-4.13.html) 
+February 5th: [Update 4.13](https://grimoireofheart.github.io/2023/01/26/Update-4.13.html)  
 
 ## Gallery
 
