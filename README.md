@@ -3,7 +3,7 @@
 # TRUTH LIES WITHIN
 **Instructions for Beginners**: [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Beginner%20Guides)
 
-**Core Rulebook:** [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/raw/main/Resources/Grimoire%20of%20the%20Heart%20[Core%20Rulebook].pdf)
+**Core Rulebook:** [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/blob/main/Resources/Grimoire%20of%20the%20Heart%20%5BCore%20Rulebook%5D.pdf)
 
 **Sea Of Souls (Add-Ons and Bonus Content)**: [Download Here](https://github.com/grimoireofheart/grimoireofheart.github.io/tree/main/Resources/Sea%20of%20Souls%20(Add-Ons))
 
